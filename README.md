@@ -1,0 +1,11 @@
+# 🎯 Goals
+- [x] Bubble Sort
+- [ ] Selection Sort
+- [ ] Insertion Sort
+- [ ] Merge Sort
+- [ ] Quick Sort
+- [ ] Heap Sort
+- [ ] Counting Sort
+- [ ] Shell Sort
+- [ ] Tim Sort
+- [ ] Radix Sort
